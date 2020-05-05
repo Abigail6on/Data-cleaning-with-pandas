@@ -1,7 +1,7 @@
 # Data-cleaning-with-pandas
 Dataset cleaning and organise with pandas 
 
-#Resources
+## Resources
 
 - Tidy Data Paper: http://vita.had.co.nz/papers/tidy-data.pdf
 - Pandas pivot: https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.pivot.html
